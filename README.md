@@ -120,7 +120,7 @@ The code and dataset should be used and distributed under [ (CC BY-NC-ND 4.0)](h
 - For commercial use, please contact Prof. Lianwen Jin (eelwjin@scut.edu.cn).
 - Copyright 2025, [Deep Learning and Vision Computing Lab (DLVC-Lab)](http://www.dlvc-lab.net), South China University of Technology. 
 
-## ✒️Citation
+## ✒️ Citation
 
 If you find this paper helpful, please consider giving this repo a ⭐ and citing:
 ```latex
