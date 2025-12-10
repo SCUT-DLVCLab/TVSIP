@@ -1,6 +1,6 @@
 <div align=center>
 
-# From Pixels to Semantics: a Novel MLLM-Driven Approach for Explainable Tampered Text Detection
+# From Pixels to Semantics: A Novel MLLM-Driven Approach for Explainable Tampered Text Detection
 
 </div>
 
