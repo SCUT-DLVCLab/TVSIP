@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=7,8 llamafactory-cli train examples/train_lora/tvsip_interpreter_stage2.yaml

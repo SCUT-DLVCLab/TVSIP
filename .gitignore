@@ -1,0 +1,5 @@
+data_backup/
+inference_result/
+model/
+results/
+saves/

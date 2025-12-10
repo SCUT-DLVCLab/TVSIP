@@ -1,0 +1,1 @@
+python tools/infer/infer_for_locator.py --val_set Test --gpus 7

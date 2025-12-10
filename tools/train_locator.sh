@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1,2 llamafactory-cli train examples/train_lora/tvsip_locator.yaml
