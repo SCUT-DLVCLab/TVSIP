@@ -30,7 +30,7 @@ Since TextDDLE-PT is too large, we keep it separate from the other subsets.
 
 **Note:**
 - The TextDDLE dataset is available for non-commercial research purposes only. Scholars or organizations interested in using the dataset may submit an application through our online platform:
-- 
+
 > 🔗 **[SCUT DLVC Lab Dataset Access Portal → Apply for TextDDLE](http://121.41.49.212:9000/apply/tvsip)**
 
 - We will give you the decompression password after your application has been received and approved.
