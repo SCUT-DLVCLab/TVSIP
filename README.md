@@ -30,10 +30,13 @@ Since TextDDLE-PT is too large, we keep it separate from the other subsets.
 
 **Note:**
 - The TextDDLE dataset can only be used for non-commercial research purposes. For scholar or organization who wants to use the TextDDLE dataset, you can apply through either of the following two options:
+
   **Option A: Apply Online**
   Submit your application through our online platform: 👉 [Apply Here](http://121.41.49.212:9000/)
+  
   **Option B: Apply via Email**
   Please first fill in this [Application Form](./application-form/Application-Form-for-Using-TextDDLE.docx) and sign the [Legal Commitment](./application-form/Legal-Commitment.docx) and email them to us ([eelwjin@scut.edu.cn](eelwjin@scut.edu.cn), cc: [eegtxu@mail.scut.edu.cn](eegtxu@mail.scut.edu.cn)). When submitting the application form to us, please list or attached 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, image forgery detection and localization, document image processing, and so on.
+  
 - We will give you the decompression password after your application has been received and approved.
 - The original data of the dataset is sourced from public channels such as the Internet, and its copyright shall remain with the original providers. The collated and annotated dataset presented in this case is for non-commercial use only and is currently licensed to universities and research institutions. To apply for the use of this dataset, please fill in the corresponding application form in accordance with the requirements specified on the dataset’s official website. The applicant must be a full-time employee of a university or research institute and is required to sign the application form. For the convenience of review, it is recommended to affix an official seal (a seal of a secondary-level department is acceptable).
 - All users must follow all use conditions; otherwise, the authorization will be revoked.
